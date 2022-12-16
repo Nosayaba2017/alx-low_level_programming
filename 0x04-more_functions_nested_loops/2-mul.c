@@ -3,8 +3,8 @@
 /**
  * mul - Multiplies two integers
  * @x: The first number to multiply
- * @: The second number to multiply with first number
- * Return: The result of multiplication between x param and y param
+ * @y: The second number to multiply with first number
+ * Return: Always 0
  */
 
 int mul(int c, int y)
