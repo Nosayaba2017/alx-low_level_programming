@@ -2,7 +2,6 @@
 
 /**
  * more_numbes - Print 14 times the numbers since 0 up to 14
- * followed by a new line
  * Return: 14 times of the numbers since 0 up to 14
  */
 
