@@ -4,9 +4,9 @@
 /**
  * main - Print the name of the executable file
  * @argc: Argument count
- * @argv: Array of argument strings
+ * @argv: Argument vector
  *
- * Return: 0 for succesful exit
+ * Return: Always zero
  */
 int main(int argc, char *argv[])
 {
