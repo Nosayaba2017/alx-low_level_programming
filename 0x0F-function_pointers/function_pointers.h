@@ -1,5 +1,6 @@
 #ifndef FUNCTIONS
 #define FUNCTIONS
+#include <stdlib.h>
 
 int int_index(int *array, int size, int (*cmp)(int));
 
